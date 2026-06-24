@@ -3,7 +3,7 @@ import React from "react";
 export default function Features(){
     return(
         <>
-        <div id="features" className=" mt-10 grid w-screen p-10">
+        <div id="features" className=" mt-5 grid w-screen p-10">
             <div className=" w-[75%] justify-self-center h-0.5 bg-[#7C3AED]/20 "></div>
         </div>
         <div  className=" w-screen grid h-fit lg:h-fit">
@@ -38,7 +38,7 @@ export default function Features(){
                 <div className=" justify-self-center lg:h-full lg:col-start-2 lg:col-end-3 justify-between w-[95%] lg:w-full flex gap-6 lg:gap-8">
                     <img src="/doc.png" className=" h-14 p-2 rounded-2xl bg-gray-200" alt="" />
                     <div className=" w-full grid">
-                        <h3 className="text-lg md:text-xl lg:text-2xl text-[#111827] font-semibold ">AI Summerise</h3>
+                        <h3 className="text-lg md:text-xl lg:text-2xl text-[#111827] font-semibold ">AI Summarize</h3>
                         <p className=" text-base md:text-lg text-[#6B7280] w-fit wrap-break-word ">Turn lengthy meeting notes into actionable tasks in seconds.</p>
                         <br />
                         <div className=" gap-4 text-base text-[#7C3AED] flex lg:text-lg">

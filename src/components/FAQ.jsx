@@ -30,7 +30,7 @@ export default function FAQ(){
                 <h2 className=" leading-tight tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
                     Frequently asked <br className=" block sm:hidden" /> <span className=" text-[#7C3AED] ">questions</span>
                 </h2>
-                <p className=" justify-self-center text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">Everything you need to need know about Clario.</p>
+                <p className=" justify-self-center text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">Everything you need to know about Clario.</p>
             </div>
             <br /><br />
             <div className=" justify-self-center w-[90%] pl-4 pr-4 md:w-[80%] grid ">
@@ -110,7 +110,7 @@ export default function FAQ(){
                     <img src="/head.svg" className=" h-6 md:h-8" alt="" />
                     <div className=" h-fit grid">
                         <p className="text-[#111827] text-base md:text-lg w-fit font-semibold">Still have questions?</p>
-                        <p className="text-sm md:text-base text-[#6B7280] w-fit font-medium ">Our support team is hear to help you </p>
+                        <p className="text-sm md:text-base text-[#6B7280] w-fit font-medium ">Our support team is here to help you </p>
                     </div>
                 </div>
                 <div className=" p-2 pl-4  items-center pr-4 rounded-xl border border-[#7C3AED] flex gap-4 justify-center text-[#7C3AED] text-base md:text-lg w-fit font-medium ">

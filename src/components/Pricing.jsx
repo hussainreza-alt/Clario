@@ -79,7 +79,7 @@ export default function Pricing (){
                     </div>
                     <div className="grid justify-start">
                         <h6 className=" text-xl md:text-2xl lg:text-3xl text-gray-200 font-bold ">Pro</h6>
-                        <p className=" text-sm md:text-base lg:text-base text-gray-200 ">For Professionals & growing teams</p>
+                        <p className=" text-sm md:text-base lg:text-base text-gray-200 ">For professionals & growing teams</p>
                     </div>
                     <br />
                     <div className=" grid justify-self-center w-full">
@@ -105,7 +105,7 @@ export default function Pricing (){
                             <div className=" p-1 bg-gray-200 rounded-lg">
                                 <img src="/tick.svg" className=" h-4 bg-gray-200 rounded-xl" alt="" />
                             </div>
-                            <p className=" text-sm md:text-base lg:text-base text-gray-200 ">Advance AI tools</p>
+                            <p className=" text-sm md:text-base lg:text-base text-gray-200 ">Advanced AI tools</p>
                         </div>
                         <div className=" items-center mt-4 w-full flex gap-4 justify-start">
                             <div className=" p-1 bg-gray-200 rounded-lg">
@@ -127,7 +127,7 @@ export default function Pricing (){
                         </div>
                         <br />
                         <div className=" place-items-center justify-center font-medium w-full bg-gray-200 flex rounded-xl gap-4 border border-[#7C3AED] p-4">
-                            <p className=" w-fit text-sm md:text-base lg:text-base text-[#7C3AED] ">Start Free Trail</p>
+                            <p className=" w-fit text-sm md:text-base lg:text-base text-[#7C3AED] ">Start Free Trial</p>
                             <p className=" w-fit text-sm md:text-base lg:text-base text-[#7C3AED]">➔</p>
                         </div>
                     </div>
@@ -191,7 +191,7 @@ export default function Pricing (){
             <div className=" flex-wrap items-center justify-center gap-4 flex w-fit justify-self-center">
                 <img src="/aut.svg" className=" h-6 " alt="" />
                 <div className=" grid">
-                    <p className=" justify-self-center text-center w-fit wrap-break-word text-base text-[#6B7280] mt-2 font-medium ">All plans include <span className=" text-[#7C3AED] ">14-day free trails. <br className="block md:hidden" /> </span>No credit card required.</p>
+                    <p className=" justify-self-center text-center w-fit wrap-break-word text-base text-[#6B7280] mt-2 font-medium ">All plans include <span className=" text-[#7C3AED] ">14-day free trials. <br className="block md:hidden" /> </span>No credit card required.</p>
                 </div>
             </div>
         </div>

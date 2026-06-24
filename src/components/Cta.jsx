@@ -13,7 +13,7 @@ export default function Cta (){
                         <img src="/dostar.svg" className=" h-4" alt="" />
                         <p className=" text-sm text-[#111827] font-semibold ">AI assistance</p>
                     </div>
-                    <p className=" text-base text-[#111827] font-semibold w-[90%] wrap-break-word mb-5 ">Create a weekly plan for prodct launch</p>
+                    <p className=" text-base text-[#111827] font-semibold w-[90%] wrap-break-word mb-5 ">Create a weekly plan for product launch</p>
                     <div className=" p-2 rounded-xl bg-gray-300 justify-self-end w-fit h-fit">
                         <img src="/dostar.svg" className=" h-5" alt="" />
                     </div>
@@ -39,9 +39,9 @@ export default function Cta (){
                 </div>
                 <br />
                 <h2 className=" justify-self-center text-center leading-tight tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
-                    Ready to bring clearity to <span className=" text-[#7C3AED] "> your work flow?</span>
+                    Ready to bring clarity to <span className=" text-[#7C3AED] "> your workflow?</span>
                 </h2>
-                <p className=" justify-self-center text-center w-fit wrap-break-word text-sm md:text-base lg:text-lg text-[#6B7280] mt-2 ">Join thousands of professionals who use Clario <br className=" hidden lg:block" /> to stay organized, focus and ahead of the time</p>
+                <p className=" justify-self-center text-center w-fit wrap-break-word text-sm md:text-base lg:text-lg text-[#6B7280] mt-2 ">Join thousands of professionals who use Clario <br className=" hidden lg:block" /> to stay organized, focus and ahead of their time</p>
 
                 
                 <div className=" my-5 justify-center grid md:flex p-4 md:gap-4 lg:gap-8">

@@ -20,8 +20,8 @@ export default function Nav(){
 
     return(
         <>
-        <div className=" w-screen grid lg:pl-4 lg:pr-4 fixed z-40 top-3 left-0 backdrop-blur-2xl">
-            <div className="flex lg:grid lg:grid-cols-[1fr_2fr_1fr] w-[90%] lg:w-full justify-self-center p-4 rounded-xl shadow-sm items-center justify-between shadow-black/50">
+        <div className=" w-screen grid lg:pl-4 lg:pr-4 fixed z-40 top-3 left-0 ">
+            <div className="flex lg:grid lg:grid-cols-[1fr_2fr_1fr] w-[90%] backdrop-blur-2xl lg:w-full justify-self-center p-4 rounded-xl shadow-sm items-center justify-between shadow-black/50">
                 <div className=" lg:justify-self-start w-fit lg:col-start-1 lg:col-end-2 self-start h-fit flex items-center gap-0">
                     <img src="/logo.png" className=" self-start justify-self-start h-12" alt="" />
                     <span className=" text-[#11827] text-lg font-semibold lg:text-2xl sm:text-xl">Clario</span>

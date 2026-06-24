@@ -10,7 +10,7 @@ export default function Testimonial(){
                     <span className=" text-sm lg:text-base text-[#7C3AED] tracking-tight font-medium ">TRUSTED RESULTS</span>
                 </div>
                 <h2 className=" leading-tight tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
-                    Lover by <span className=" text-[#7C3AED] ">Professionals</span> worldwid.
+                    Loved by <span className=" text-[#7C3AED] ">Professionals</span> worldwid.
                 </h2>
                 <p className=" justify-self-center text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">See how teams use Clario to stay focused and organized</p>
             </div>
@@ -29,7 +29,7 @@ export default function Testimonial(){
                         </div>
                     </div>
                     <br />
-                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"Clario helped our team reduce planning time dramatically. the AI summaries alone saves us hours every week"</p>
+                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"Clario helped our team reduce planning time dramatically. the AI summaries alone save us hours every week"</p>
                     <br />
                     <hr className=" text-gray-300/30" />
                     <br />
@@ -37,7 +37,7 @@ export default function Testimonial(){
                         <img src="/1.png" className=" rounded-full h-12 md:h-14 lg:h-16" alt="" />
                         <div className=" grid">
                             <p className=" text-left text-base text-[#111827] font-medium ">Sarah Chen</p>
-                            <p className=" text-left text-base text-[#6B7280] ">Product manager at Linear</p>
+                            <p className=" text-left text-base text-[#6B7280] ">Product Manager at Linear</p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ export default function Testimonial(){
                         <img src="/4.png" className=" rounded-full h-12 md:h-14 lg:h-16" alt="" />
                         <div className=" grid">
                             <p className=" text-left text-base text-[#111827] font-medium ">James Wilson</p>
-                            <p className=" text-left text-base text-[#6B7280] ">Marketing lead at Superlist</p>
+                            <p className=" text-left text-base text-[#6B7280] ">Marketing Lead at Superlist</p>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ export default function Testimonial(){
                         </div>
                     </div>
                     <br />
-                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"Clario brings clearity to chaos. As a startup founder, it keeps me and my team aligned without the busy work"</p>
+                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"Clario brings clarity to chaos. As a startup founder, it keeps me and my team aligned without the busy work"</p>
                     <br />
                     <hr className=" text-gray-300/30" />
                     <br />
@@ -89,7 +89,7 @@ export default function Testimonial(){
                         <img src="/2.png" className=" rounded-full h-12 md:h-14 lg:h-16" alt="" />
                         <div className=" grid">
                             <p className=" text-left text-base text-[#111827] font-medium ">Daniel Roberts</p>
-                            <p className=" text-left text-base text-[#6B7280] ">Founder at flow base</p>
+                            <p className=" text-left text-base text-[#6B7280] ">Founder at Flow Base</p>
                         </div>
                     </div>
                 </div>
@@ -107,15 +107,15 @@ export default function Testimonial(){
                         </div>
                     </div>
                     <br />
-                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"The analytics dashboard gives us real insights into team productivety. It's become an essential part of our daily workflow"</p>
+                    <p className=" text-left w-[90%] text-base text-[#111827] justify-self-start pl-2 ">"The analytics dashboard gives us real insights into team productivity. It's become an essential part of our daily workflow"</p>
                     <br />
                     <hr className=" text-gray-300/30" />
                     <br />
                     <div className=" flex items-center gap-4">
                         <img src="/3.png" className=" rounded-full h-12 md:h-14 lg:h-16" alt="" />
                         <div className=" grid">
-                            <p className=" text-left text-base text-[#111827] font-medium ">Emily Jonhson</p>
-                            <p className=" text-left text-base text-[#6B7280] ">Marketing lead at Superlist</p>
+                            <p className=" text-left text-base text-[#111827] font-medium ">Emily Johnson</p>
+                            <p className=" text-left text-base text-[#6B7280] ">Growth Lead at Linear</p>
                         </div>
                     </div>
                 </div>

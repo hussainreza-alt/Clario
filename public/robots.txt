@@ -1,0 +1,6 @@
+# Allow all search engine scrapers to crawl our workspace page
+User-agent: *
+Allow: /
+
+# Point crawling spiders straight to the live sitemap URL
+Sitemap: https://vercel.app

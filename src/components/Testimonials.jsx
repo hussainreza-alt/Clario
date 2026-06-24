@@ -11,9 +11,9 @@ export default function Testimonials (){
                         <span className=" text-sm lg:text-base text-[#7C3AED] tracking-tight font-medium ">TRUSTED RESULTS</span>
                     </div>
                     <h2 className=" leading-tight tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
-                        Real results from real teams <span className=" text-[#7C3AED] ">real teams</span>
+                        Real results from <span className=" text-[#7C3AED] ">teams</span>
                     </h2>
-                    <p className=" text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">Clario combines task management, AI assistance and workflow analytics into one focused workspace</p>
+                    <p className=" text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">See how teams around the world utilize Clario's smart workspace analytics to drive project efficiency.</p>
                 </div>
                 <br /><br />
                 <div className=" mt-5 lg:mt-10 grid grid-cols-2 lg:grid-cols-4 gap-5">
@@ -30,7 +30,7 @@ export default function Testimonials (){
                         <img src="/cont.svg" className=" h-12 lg:h-18" alt="" />
                         <br />
                         <h4 className=" text-2xl md:text-3xl lg:text-4xl text-[#7C3AED] font-bold ">12K+</h4>
-                        <p className=" text-base md:text-lg lg:text-xl text-[#6B7280] ">Active <br /> Professionals</p>
+                        <p className=" text-base md:text-lg lg:text-xl text-[#6B7280] ">Active <br /> professionals</p>
                     </div>
                     {/* third card */}
                     <div className=" bg-gray-200 h-full rounded-xl p-4 col-start-1 col-end-2 lg:col-start-3 lg:col-end-4 justify-self-center justify-center text-center w-full grid place-items-center">

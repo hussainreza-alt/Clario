@@ -23,7 +23,7 @@ export default function Footer1 (){
                         <img src="/logo.png" className=" h-7 md:h-8 lg:h-9" alt="" />
                         <p className=" w-fit">Clario</p>
                     </div>
-                    <p className=" text-sm md:text-base text-[#6B7280] w-[90%] md:w-[95%] ">The AI powered workspace that helps you and your team stay organized, productive and focus on what matters most.</p>
+                    <p className=" text-sm md:text-base text-[#6B7280] w-[90%] md:w-[95%] ">The AI-powered workspace that helps you and your team stay organized, productive and focus on what matters most.</p>
                     <div className="flex justify-self-center my-4 md:justify-self-start justify-between w-[65%] items-center">
                         <img src="/twitter.svg" className=" h-4 lg:h-6" alt="" />
                         <img src="/linkedin.svg" className=" h-4 lg:h-6" alt="" />
@@ -86,7 +86,7 @@ export default function Footer1 (){
                 {/* stay in loop */}
                 <div className="grid w-[85%] md:w-auto mt-4 md:mt-2 my-2 md:col-start-2 md:col-end-3 lg:col-start-3 lg:col-end-4 justify-self-center">
                     <p className=" mb-2 text-sm md:text-base font-semibold text-[#111827] ">Stay in the loop</p>
-                    <p className=" text-sm md:text-base text-[#6B7280] ">Get productivity tips and products updates straight into your inbox </p>
+                    <p className=" text-sm md:text-base text-[#6B7280] ">Get productivity tips and product updates straight into your inbox </p>
                     <div className=" my-2 justify-self-center rounded-xl relative w-[90%] h-fit md:justify-self-start">
                         <div className=" rounded-r-sm absolute z-10 right-0 h-full w-6 p-1 bg-[#7C3AED] grid place-items-center">
                             <img src="/send.svg" className=" h-full w-full" alt="" />
@@ -120,7 +120,7 @@ export default function Footer1 (){
                             <p className=" my-2 text-sm md:text-base text-[#6B7280] ">Documentation</p>
                             <p className=" my-2 text-sm md:text-base text-[#6B7280] ">Templates</p>
                             <p className=" my-2 text-sm md:text-base text-[#6B7280] ">Webinars</p>
-                            <p className=" my-2 text-sm md:text-base text-[#6B7280] ">status</p>
+                            <p className=" my-2 text-sm md:text-base text-[#6B7280] ">Status</p>
                         </div>
                     </div>
 

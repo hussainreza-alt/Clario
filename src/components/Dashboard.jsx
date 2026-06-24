@@ -50,9 +50,9 @@ export default function Dashboard (){
                 </div>
             </div>
             <br className=" block lg:hidden" />
-            <div className=" rounded-3xl h-full place-items-center shadow-md shadow-black/50 w-full">
-                <img src="/mo.png" className=" hidden lg:block w-full" alt="" />
-                <img src="/mob.png" className=" mt-20 w-[50%] block lg:hidden" alt="" />
+            <div className=" rounded-3xl h-[50vh] overflow-hidden items-start shadow-md shadow-black/50 w-full">
+                <img src="/mo.png" className=" hidden md:block w-full" alt="" />
+                <img src="/mob.png" className=" w-full block lg:hidden" alt="" />
             </div>
         </div>
         </>
