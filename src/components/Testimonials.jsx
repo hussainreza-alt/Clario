@@ -10,7 +10,7 @@ export default function Testimonials (){
                         <img src="/chart2.png" className=" h-8" alt="" />
                         <span className=" text-sm lg:text-base text-[#7C3AED] tracking-tight font-medium ">TRUSTED RESULTS</span>
                     </div>
-                    <h2 className=" leading-tight tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
+                    <h2 className=" leading-tight justify-self-center text-center tracking-tight font-bold text-3xl md:text-4xl lg:text-5xl wrap-break-word text-[#111827] ">
                         Real results from <span className=" text-[#7C3AED] ">teams</span>
                     </h2>
                     <p className=" text-center w-fit wrap-break-word text-base lg:text-lg text-[#6B7280] mt-2 ">See how teams around the world utilize Clario's smart workspace analytics to drive project efficiency.</p>
